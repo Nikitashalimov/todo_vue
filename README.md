@@ -1,3 +1,5 @@
+Проект создан в целях освоить Vue и Vuex
+
 # vue_training
 
 ## Project setup
