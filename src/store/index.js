@@ -1,14 +1,9 @@
-import { createStore } from 'vuex'
+import { createStore } from "vuex";
+import { ArrTaskModule } from "@/store/arrTaskModule";
 
 export default createStore({
-  state: {
-  },
-  getters: {
-  },
-  mutations: {
-  },
-  actions: {
-  },
+  state: {},
   modules: {
+    arrTask: ArrTaskModule
   }
-})
+});
