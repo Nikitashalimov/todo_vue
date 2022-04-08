@@ -4,7 +4,7 @@ import SettingsPage from "@/pages/SettingsPage";
 
 const routes = [
   {
-    path: "/main",
+    path: "/",
     component: MainPage
   },
   {
