@@ -1,26 +1,25 @@
-Проект создан в целях освоить Vue и Vuex
+# ToDoList Vue.js
 
-# vue_training
+#### Ссылка на проект
 
-## Project setup
+[ToDoList](https://nikitashalimov.github.io/todo_vue/)
+
+#### Описание
+
+ToDoList с адаптивной версткой и категориями (под разные задачи)
+
+#### Технологии
+
+Vue 3 + VueX 4
+
+#### Инструкция 
+
+###### Установка
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+###### Запуск проекта
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
